@@ -1,0 +1,10 @@
+nconst	primaryName	birthYear	deathYear	primaryProfession	knownForTitles
+a1	Kris	1900	1905	actor	t1,t2
+a2	Sara	1900	1905	actor	t2,t3
+a3	Sandy	1900	1905	actor	t3
+a4	Tom	1900	1905	actor	t4,t5,t6
+a5	Hanks	1900	1905	actor	t3,8
+a6	Barack	1900	1905	actor	t9,t1
+a7	Obama	1900	1905	actor	t7
+a8	Donald	1900	1905	actor	t10
+a9	Trump	1900	1905	actor	t6,t7,t10
